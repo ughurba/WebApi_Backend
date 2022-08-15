@@ -37,3 +37,7 @@ C:\Users\Clean__Laptop\Desktop\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.cspr
 C:\Users\Clean__Laptop\Desktop\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.dll
 C:\Users\Clean__Laptop\Desktop\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.pdb
 C:\Users\Clean__Laptop\Desktop\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.genruntimeconfig.cache
+C:\Users\Clean__Laptop\Desktop\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\Clean__Laptop\Desktop\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+C:\Users\Clean__Laptop\Desktop\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Clean__Laptop\Desktop\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.MvcApplicationPartsAssemblyInfo.cs

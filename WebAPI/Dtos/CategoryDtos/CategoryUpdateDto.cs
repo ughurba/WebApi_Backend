@@ -2,10 +2,9 @@
 
 namespace WebAPI.Dtos.CategoryDtos
 {
-    public class CategoryDto
+    public class CategoryUpdateDto
     {
-        public int Id{ get; set; }
         public string Name { get; set; }
-        public string imgUrl{ get; set; }
+        public IFormFile Photo { get; set; }
     }
 }

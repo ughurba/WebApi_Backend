@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "cyHO2bs9TJDMopCzduAXBRVtHw2/wkWgJJpSCQevNHrDWHVEoR639vFt//KYwmDRJKsQSFBqf5XA/v7TX6sdKA==",
+  "dgSpecHash": "oh1/Sjlioh3XbLTWx3K4E+tNxHLvKVqbVXfXqNeD0Hx9ywKA4j779Ptix2Tv/o9+JTvTeeDXV/wtl+vePN+9vg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Clean__Laptop\\Desktop\\WebAPI\\WebAPI\\WebAPI.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Clean__Laptop\\.nuget\\packages\\fluentvalidation\\11.2.0\\fluentvalidation.11.2.0.nupkg.sha512",
+    "C:\\Users\\Clean__Laptop\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.2.1\\fluentvalidation.aspnetcore.11.2.1.nupkg.sha512",
+    "C:\\Users\\Clean__Laptop\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.2.0\\fluentvalidation.dependencyinjectionextensions.11.2.0.nupkg.sha512",
     "C:\\Users\\Clean__Laptop\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
     "C:\\Users\\Clean__Laptop\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
     "C:\\Users\\Clean__Laptop\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
